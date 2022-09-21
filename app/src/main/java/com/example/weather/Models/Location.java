@@ -1,4 +1,4 @@
-package com.example.weather;
+package com.example.weather.Models;
 
 public class Location {
     private String name;
