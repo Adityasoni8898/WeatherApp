@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Weather/app/src/main/res/drawable/clear_background.xml" value="0.1595" />
+        <entry key="..\:/Weather/app/src/main/res/drawable/cloudy_background.xml" value="0.2665" />
+        <entry key="..\:/Weather/app/src/main/res/drawable/ed_box.xml" value="0.2665" />
+        <entry key="..\:/Weather/app/src/main/res/drawable/mist_background.xml" value="0.2665" />
+        <entry key="..\:/Weather/app/src/main/res/drawable/partially_cloudy_background.xml" value="0.2665" />
+        <entry key="..\:/Weather/app/src/main/res/drawable/rainy_background.xml" value="0.2665" />
+        <entry key="..\:/Weather/app/src/main/res/drawable/sunny_background.xml" value="0.1595" />
+        <entry key="..\:/Weather/app/src/main/res/layout/activity_main.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
